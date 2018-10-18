@@ -16,4 +16,4 @@ Once it is running, you can access it in a browser at [http://localhost:3000](ht
 
 I am editting this file to verify if there is a build been triggered.
 
-Jenkins is a good CI tools
+Jenkins is a good CI tools and easy to learn
